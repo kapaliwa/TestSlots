@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h1>Deployment Slots Example</h1>
-            <p>This is the Test page with edits.</p>
+            <p>This is the Test new slots page with edits.</p>
     </div>
     </form>
 </body>
